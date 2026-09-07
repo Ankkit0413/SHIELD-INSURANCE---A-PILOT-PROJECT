@@ -108,15 +108,15 @@ Analyzes:
 
 ### General View
 
-![General View](Dashboard/General_View.jpg)
+![General View](Shield-Insurance-PowerBI/Dashboard/General_View.jpg)
 
 ### Sales Mode Analysis
 
-![Sales Mode Analysis](Dashboard/Sales_Mode_Analysis.jpg)
+![Sales Mode Analysis](Shield-Insurance-PowerBI/Dashboard/Sales_Mode_Analysis.jpg)
 
 ### Age Group Analysis
 
-![Age Group Analysis](Dashboard/Age_Group_Analysis.jpg)
+![Age Group Analysis](Shield-Insurance-PowerBI/Dashboard/Age_Group_Analysis.jpg)
 
 ---
 

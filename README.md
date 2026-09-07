@@ -8,12 +8,12 @@ The project focuses on analyzing customer growth, revenue performance, policy tr
 
 The dashboard was developed to answer key business questions and help stakeholders identify growth opportunities, understand customer behavior, and improve sales and marketing strategies.
 
-![Thumbnail](https://github.com/Ankkit0413/Business-Insights-360/blob/main/Business%20Insights%20360.png](https://github.com/Ankkit0413/SHIELD-INSURANCE---A-PILOT-PROJECT/blob/main/Shield-Insurance-PowerBI/Dashboard/Thumbnail.png)
+![Thumbnail](https://github.com/Ankkit0413/SHIELD-INSURANCE---A-PILOT-PROJECT/blob/main/Shield-Insurance-PowerBI/Dashboard/Thumbnail.png)
 
-[Live Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZTE1MmFkMzUtZmFkZi00MWNjLWFjNzYtZjM0NzJmZTc2NmY0IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9](https://app.powerbi.com/view?r=eyJrIjoiNjJiYTcyMmQtN2I5Yi00NWQ1LWI2YmItNTNiNTE3YWY3NzJhIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&disablecdnExpiration=1788392711)
+[Live Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNjJiYTcyMmQtN2I5Yi00NWQ1LWI2YmItNTNiNTE3YWY3NzJhIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&disablecdnExpiration=1788392711)
 
 
-[View LinkedIn Post](https://www.linkedin.com/posts/ankkitkumarguppta_business-insights-360-activity-7255948922123145216-shIp?utm_source=share&utm_medium=member_desktop](https://lnkd.in/p/d9w4WENi)
+[View LinkedIn Post](https://lnkd.in/p/d9w4WENi)
 
 ---
 ## 🔍 Key Insights

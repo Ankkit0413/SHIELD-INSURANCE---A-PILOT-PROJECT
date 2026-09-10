@@ -13,7 +13,7 @@ The dashboard was developed to answer key business questions and help stakeholde
 [Live Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNWVhZTU2MjctMDA4OS00YzcwLWE4ZmMtN2U1NDhlZGQ4OWYxIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 
-[View LinkedIn Post](https://lnkd.in/p/d9w4WENi)
+[View LinkedIn Post](https://www.linkedin.com/posts/ankkitkumarguppta_codebasicsvirtualinternship-powerbi-dataanalytics-activity-7503844903467053056-aqa-?utm_source=share&utm_medium=member_desktop&rcm=ACoAADDp7y0B5XYLOhbstsVHr9T0KhdbbVZcxMw)
 
 ---
 ## 🔍 Key Insights

@@ -16,6 +16,7 @@ The dashboard was developed to answer key business questions and help stakeholde
 [View LinkedIn Post](https://www.linkedin.com/posts/ankkitkumarguppta_codebasicsvirtualinternship-powerbi-dataanalytics-activity-7503844903467053056-aqa-?utm_source=share&utm_medium=member_desktop&rcm=ACoAADDp7y0B5XYLOhbstsVHr9T0KhdbbVZcxMw)
 
 [Presentation Video](https://www.youtube.com/watch?v=bGkggokkcFQ)
+
 ---
 ## 🔍 Key Insights
 
